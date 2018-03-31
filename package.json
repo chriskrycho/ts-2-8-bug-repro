@@ -1,0 +1,9 @@
+{
+  "name": "ts-2-8-bug-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.8.1"
+  }
+}
